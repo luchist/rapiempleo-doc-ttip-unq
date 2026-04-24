@@ -4,6 +4,10 @@ Documentacion para el Trabajo de Inserción Profesional - UNQ
 
 ## RapiEmpleo
 
+### Icono del proyecto
+
+<img width="187" height="187" alt="logo solo" src="https://github.com/user-attachments/assets/33da417f-54b0-4566-858a-dcad4710b62a" />
+
 ### **Integrantes**
 
 - Carlos Rivero
